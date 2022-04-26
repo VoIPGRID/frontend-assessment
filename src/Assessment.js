@@ -4,7 +4,7 @@ function Assessment(props) {
       style={{ width: props.width, height: props.height }}
       className="flex items-center justify-center"
     >
-      <span className="font-bold">Your code here 🥳</span>
+      <span className="font-bold">Hello there! 🥳</span>
     </div>
   );
 }
